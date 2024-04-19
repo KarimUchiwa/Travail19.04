@@ -1,0 +1,58 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: orangered;
+}
+
+
+body {
+    font-family: "Arial", sans-serif;
+    background-color: black;
+}
+
+p {
+    color: white;
+    text-align: justify;
+    font-size: 18px;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: white;
+    font-size: 30px;
+}
+
+nav a {
+    color: white;
+}
+
+img{
+    padding: 10px;
+    border: white 5px solid;
+    position: relative;
+    max-width: 100%;
+    height: auto;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+}
+
+footer p {
+    color:white;
+    text-align: right;
+}

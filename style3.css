@@ -1,0 +1,53 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    background-color: aquamarine;
+}
+
+
+p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: green;
+    font-size: 30px;
+}
+
+nav a {
+    color: black;
+}
+
+img{
+    padding: 10px;
+    border: darkgreen 5px solid;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+}
+
+footer p {
+    color:aquamarine;
+    text-align: right;
+}

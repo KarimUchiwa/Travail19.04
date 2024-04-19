@@ -1,0 +1,66 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    background-color: indianred;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+button{
+    transition-property: background-color;
+    transition-duration: 3s;
+    transition-timing-function: ease;
+}
+
+
+button:hover{
+    background-color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: gold;
+    font-size: 30px;
+}
+
+
+body {
+    background-image: url('top10.jpg');
+    background-size: cover;
+}
+main {
+    color:white;
+}
+img{
+    padding: 10px;
+    border: darkblue 5px solid;
+    width: 500px;
+    height: 500px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+footer p {
+    color:indianred;
+    text-align: right;
+}
+
